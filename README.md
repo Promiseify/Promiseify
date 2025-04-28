@@ -1,11 +1,10 @@
-<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
 <h1>Howdy!, I am <a href="https://github.com/Promiseify">Promiseify</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
 ### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Promiseify/)](https://github.com/Promiseify/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Promiseifykollipara/)](https://www.linkedin.com/in/Promiseifykollipara)
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Defcon27)](https://www.hackerrank.com/Defcon27)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/Promiseify)](https://www.hackerrank.com/Promiseify)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11534375/Promiseify-kollipara)](https://stackoverflow.com/users/11534375/Promiseify-kollipara)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:defcon.sentinal95@gmail.com)
 [![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/Promiseifykollipara/articles)](https://auth.geeksforgeeks.org/user/Promiseifykollipara/articles)
@@ -48,13 +47,12 @@
 
 ### 🚀 Quick Stats
 <p align="center">
-<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" />
-<!-- <img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Promiseify)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Promiseify)
 </p>
 
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27) -->
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Promiseify) -->
 
 
 <!-- <details>
@@ -62,10 +60,10 @@
 <br>
 <p align="center">
 <a href="https://github.com/Promiseify/Machine-Learning">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Defcon27&repo=Machine-Learning&show_owner=true&theme=react" />
+<img src="https://github-readme-stats-Promiseify.vercel.app/api/pin/?username=Promiseify&repo=Machine-Learning&show_owner=true&theme=react" />
 </a>&ensp;
 <a href="https://github.com/Promiseify/Deep-Learning">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Defcon27&repo=Deep-Learning&show_owner=true&theme=react" />
+<img src="https://github-readme-stats-Promiseify.vercel.app/api/pin/?username=Promiseify&repo=Deep-Learning&show_owner=true&theme=react" />
 </a>
 </p>
 </details> -->
@@ -73,15 +71,15 @@
 
 
 <!--
-**Defcon27/Defcon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Promiseify/Promiseify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 pic on right
 <img height="270" src="sss.svg" align=right>
 
  
 views
-![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
-[![HitCount](http://hits.dwyl.com/Defcon27/.svg)](http://hits.dwyl.com/Defcon27)
+![Profile Views](https://komarev.com/ghpvc/?username=Promiseify)
+[![HitCount](http://hits.dwyl.com/Promiseify/.svg)](http://hits.dwyl.com/Promiseify)
 
 
 social modded badge
